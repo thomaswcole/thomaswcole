@@ -2,7 +2,7 @@
 
 I'm currently a graduate student at Columbia University, where I’m pursuing a master’s in mathematical finance. Previously, I completed my undergraduate degree at McGill University where I completed a major in mathematics and a minor in finance.
 
-I'm passionate about applied mathematics and statistics, paritcularly with their applications to finance. You can read more about my current and past work [here](https://thomaswcole.github.io/)
+I'm passionate about applied mathematics and statistics, paritcularly with their applications to finance. You can read more about my current and past work [here](https://thomaswcole.github.io/).
 
 You can contact me at [thomaswcole1@gmail.com](mailto:thomaswcole1@gmail.com)
 
