@@ -1,9 +1,8 @@
 ### Hi, my name is Thomas
 
+I'm currently a graduate student at Columbia University, where I’m pursuing a master’s in mathematical finance. Previously, I completed my undergraduate degree at McGill University where I completed a major in mathematics and a minor in finance.
 
-I recently compelted my undergraduate degree at McGill University where I compeleted a major in mathematics alongside a minor in finance. 
-
-I'm passionate about applied mathematics and statistics, paritcularly with their applications to finance. I recently completed a research project examining use of PCA as a means of demonsionality reduction on the implied volatility surface for US Equity Options. You can read my report [here](https://github.com/thomaswcole/math-410/tree/main)
+I'm passionate about applied mathematics and statistics, paritcularly with their applications to finance. You can read more about my current and past work [here](https://thomaswcole.github.io/)
 
 You can contact me at [thomaswcole1@gmail.com](mailto:thomaswcole1@gmail.com)
 
